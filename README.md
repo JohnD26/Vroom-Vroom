@@ -1,8 +1,8 @@
-# Autonomous Vehicle Simulator
+# Vroom Vroom: The Autonomous Vehicle Simulator
 
 ## Introduction
 
-The Autonomous Vehicle Simulator is a C++ project that simulates autonomous vehicles navigating dynamic environments. It features sensor fusion algorithms, basic machine learning models for decision-making, and visualizations using OpenGL.
+Vroom Vroom is a C++ project that simulates autonomous vehicles navigating dynamic environments. It features sensor fusion algorithms, basic machine learning models for decision-making, and visualizations.
 
 ## Features
 
